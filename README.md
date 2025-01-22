@@ -1,11 +1,13 @@
 ## Brand New Project by Tyler and Max
 
-Merges are fun
+I am the only one who did work on this project!
 
     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse impedit
       optio, distinctio, officia culpa natus ad aliquam obcaecati explicabo
       ipsum laudantium  inventore dignissimos cumque laborum et ratione
       sapiente.
+
+      Max was here
 
 More changes down below
 
